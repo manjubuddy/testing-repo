@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "im in main branch and adding codes"
+echo "im in manju branch"
+echo "im in manju branch i replicated the code and adding testing codes"
